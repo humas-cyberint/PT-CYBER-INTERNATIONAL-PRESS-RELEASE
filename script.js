@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var element = document.querySelector('.page-wrap');
     var opt = {
       margin: [10, 10, 10, 10],
-      filename: 'Siaran-Pers-PT-Cyber-International-12-Juni-2020.pdf',
+      filename: 'Siaran-Pers-PT-Cyber-International-Hasil-Investigasi-19-Juni-2026.pdf',
       image: { type: 'jpeg', quality: 0.98 },
       html2canvas: { scale: 2, useCORS: true },
       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
